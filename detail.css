@@ -1,0 +1,14 @@
+.student-image{
+    width: 200px;
+    height: 200px;
+}
+
+.student-name{
+    font-size: 24px;
+    margin: 20px;
+    margin-top: 10px;
+}
+
+.student-address{
+    margin-left: 20px;
+}
